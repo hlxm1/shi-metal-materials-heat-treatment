@@ -1,0 +1,19 @@
+# Local source material and extraction work must stay outside the public repository
+*.pdf
+*.epub
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.odb
+work/
+corpus/
+ocr/
+full_text.txt
+source-paths.local.json
+.env
+__pycache__/
+*.pyc
+*.zip

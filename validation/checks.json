@@ -1,0 +1,27 @@
+[
+  {
+    "check": "skill-structure",
+    "exit_code": 0
+  },
+  {
+    "check": "generated-skill-scan",
+    "exit_code": 0
+  },
+  {
+    "check": "numerical-tests",
+    "exit_code": 0
+  },
+  {
+    "check": "repository-integrity",
+    "exit_code": 0
+  },
+  {
+    "check": "lookup-smoke-test",
+    "exit_code": 0
+  },
+  {
+    "check": "all-markdown-extended-scan",
+    "exit_code": 0,
+    "files": 36
+  }
+]

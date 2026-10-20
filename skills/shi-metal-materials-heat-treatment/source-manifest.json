@@ -1,0 +1,35 @@
+{
+  "generated": "2026-10-20",
+  "sources": [
+    {
+      "id": "textbook",
+      "filename": "金属材料及热处理(史文主编,Shiwenzhubian,史文主编,史美堂,史文主编,史文)(z-.pdf",
+      "pages": 302,
+      "sha256": "0480c2239f4784a07b8be087b836d87361b302b0eb6e2206df4dd480a8174711",
+      "ocr_pages": 302,
+      "characters": 303163
+    },
+    {
+      "id": "workbook",
+      "filename": "金属材料及热处理习题集实验指导书(史文，柏斯森等编著,史文,柏斯森等.pdf",
+      "pages": 72,
+      "sha256": "0bc8fcf61f0c090e633688ba6ac1637cc59d161c5d7276299c0626adb570e473",
+      "ocr_pages": 72,
+      "characters": 66336
+    }
+  ],
+  "pagination": {
+    "textbook": {
+      "first_body_pdf_page": 14,
+      "last_body_pdf_page": 301,
+      "printed_offset": 13
+    },
+    "workbook": {
+      "first_numbered_pdf_page": 9,
+      "last_book_pdf_page": 71,
+      "printed_offset": 8
+    }
+  },
+  "extraction": "Windows.Media.Ocr zh-Hans-CN; 2.5x raster, followed by book-to-skill technical-mode text input",
+  "note": "OCR and source images remain local and are not included in this repository."
+}

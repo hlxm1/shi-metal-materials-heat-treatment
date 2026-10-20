@@ -1,0 +1,4 @@
+interface:
+  display_name: "金属材料与热处理"
+  short_description: "教材九章、配套习题与六个实验的可溯源学习、计算和选材工具"
+  default_prompt: "使用 $shi-metal-materials-heat-treatment，按原书页码解释问题并区分已核验依据和待查数据。"

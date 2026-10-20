@@ -1,0 +1,24 @@
+Note: 21 Markdown file(s) in the skill directory are outside the generated-skill scope and were NOT scanned:
+  SKIP exercises/ch00.md
+  SKIP exercises/ch01.md
+  SKIP exercises/ch02.md
+  SKIP exercises/ch03.md
+  SKIP exercises/ch04.md
+  SKIP exercises/ch05.md
+  SKIP exercises/ch06.md
+  SKIP exercises/ch07.md
+  SKIP exercises/ch08.md
+  SKIP exercises/ch09.md
+  SKIP exercises/worked-calculations.md
+  SKIP labs/lab01-hardness.md
+  SKIP labs/lab02-equilibrium-microstructures.md
+  SKIP labs/lab03-heat-treatment.md
+  SKIP labs/lab04-treated-microstructures.md
+  SKIP labs/lab05-jominy.md
+  SKIP labs/lab06-alloy-microstructures.md
+  SKIP labs/metallography-basics.md
+  SKIP quality.md
+  SKIP sources.md
+  SKIP study-plan.md
+  Scope is SKILL.md, glossary/patterns/cheatsheet, and chapters/. Move generated content there to have it scanned.
+Generated-skill scan passed: no known injection or authority patterns found in the scanned scope.

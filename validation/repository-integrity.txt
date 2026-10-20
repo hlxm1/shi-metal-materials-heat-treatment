@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "exercises": 184,
+  "chapters": 9,
+  "labs": 6,
+  "flagged_questions": 17,
+  "markdown_files": 34
+}

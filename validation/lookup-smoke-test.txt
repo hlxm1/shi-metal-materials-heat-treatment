@@ -1,0 +1,5 @@
+{"id": "5-40", "chapter": 5, "number": 40, "topic": "40MnB最大半径", "pdf_pages": [18, 19], "printed_pages": [10, 11], "status": "需补原图/表数据或完整子问", "file": "exercises/ch05.md"}
+## 5-40 40MnB最大半径
+
+由45HRC交末端曲线读J，再由图中水淬、距中心3R/4的对应标尺反求R；当前未认证数值，不能用图横轴毫米当零件半径。
+

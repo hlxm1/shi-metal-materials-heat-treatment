@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "0-1",
+    "chapter": 0,
+    "number": 1,
+    "topic": "课程目的",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch00.md"
+  },
+  {
+    "id": "0-2",
+    "chapter": 0,
+    "number": 2,
+    "topic": "材料性能",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch00.md"
+  },
+  {
+    "id": "0-3",
+    "chapter": 0,
+    "number": 3,
+    "topic": "力学指标",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch00.md"
+  },
+  {
+    "id": "0-4",
+    "chapter": 0,
+    "number": 4,
+    "topic": "日常选材",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch00.md"
+  },
+  {
+    "id": "0-5",
+    "chapter": 0,
+    "number": 5,
+    "topic": "性能调控与研究",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch00.md"
+  },
+  {
+    "id": "0-6",
+    "chapter": 0,
+    "number": 6,
+    "topic": "课程内容",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch00.md"
+  },
+  {
+    "id": "1-1",
+    "chapter": 1,
+    "number": 1,
+    "topic": "概念组",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-2",
+    "chapter": 1,
+    "number": 2,
+    "topic": "BCC/FCC/HCP",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-3",
+    "chapter": 1,
+    "number": 3,
+    "topic": "Cu晶格计算",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-4",
+    "chapter": 1,
+    "number": 4,
+    "topic": "晶面指数",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-5",
+    "chapter": 1,
+    "number": 5,
+    "topic": "图中AB晶向",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-6",
+    "chapter": 1,
+    "number": 6,
+    "topic": "{110}晶面族",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-7",
+    "chapter": 1,
+    "number": 7,
+    "topic": "FCC密排",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-8",
+    "chapter": 1,
+    "number": 8,
+    "topic": "各向异性",
+    "pdf_pages": [
+      10,
+      10
+    ],
+    "printed_pages": [
+      2,
+      2
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-9",
+    "chapter": 1,
+    "number": 9,
+    "topic": "过冷与晶粒",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-10",
+    "chapter": 1,
+    "number": 10,
+    "topic": "结晶规律",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-11",
+    "chapter": 1,
+    "number": 11,
+    "topic": "细化措施",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-12",
+    "chapter": 1,
+    "number": 12,
+    "topic": "钢锭组织缺陷",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-13",
+    "chapter": 1,
+    "number": 13,
+    "topic": "铸造条件比较",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "1-14",
+    "chapter": 1,
+    "number": 14,
+    "topic": "钢与铜铝柱状区",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch01.md"
+  },
+  {
+    "id": "2-1",
+    "chapter": 2,
+    "number": 1,
+    "topic": "术语组",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-2",
+    "chapter": 2,
+    "number": 2,
+    "topic": "五组区别",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-3",
+    "chapter": 2,
+    "number": 3,
+    "topic": "滑移与孪生",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-4",
+    "chapter": 2,
+    "number": 4,
+    "topic": "滑移与塑性原因",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-5",
+    "chapter": 2,
+    "number": 5,
+    "topic": "滑移系作图",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-6",
+    "chapter": 2,
+    "number": 6,
+    "topic": "细晶强韧化",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-7",
+    "chapter": 2,
+    "number": 7,
+    "topic": "多晶协调",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-8",
+    "chapter": 2,
+    "number": 8,
+    "topic": "冷作组织性能",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-9",
+    "chapter": 2,
+    "number": 9,
+    "topic": "加工硬化",
+    "pdf_pages": [
+      11,
+      11
+    ],
+    "printed_pages": [
+      3,
+      3
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-10",
+    "chapter": 2,
+    "number": 10,
+    "topic": "残余应力",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-11",
+    "chapter": 2,
+    "number": 11,
+    "topic": "回复应用",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-12",
+    "chapter": 2,
+    "number": 12,
+    "topic": "再结晶影响因素",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-13",
+    "chapter": 2,
+    "number": 13,
+    "topic": "铸件能否再结晶细化",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-14",
+    "chapter": 2,
+    "number": 14,
+    "topic": "估算再结晶温度",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-15",
+    "chapter": 2,
+    "number": 15,
+    "topic": "临界变形度",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-16",
+    "chapter": 2,
+    "number": 16,
+    "topic": "冷拔铜管冷弯",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-17",
+    "chapter": 2,
+    "number": 17,
+    "topic": "铜丝工序图",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-18",
+    "chapter": 2,
+    "number": 18,
+    "topic": "铅板放置变软",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-19",
+    "chapter": 2,
+    "number": 19,
+    "topic": "弹簧低温处理",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-20",
+    "chapter": 2,
+    "number": 20,
+    "topic": "多道次中间退火",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "2-21",
+    "chapter": 2,
+    "number": 21,
+    "topic": "热加工软化",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch02.md"
+  },
+  {
+    "id": "3-1",
+    "chapter": 3,
+    "number": 1,
+    "topic": "基础术语",
+    "pdf_pages": [
+      12,
+      12
+    ],
+    "printed_pages": [
+      4,
+      4
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-2",
+    "chapter": 3,
+    "number": 2,
+    "topic": "七组概念辨析",
+    "pdf_pages": [
+      12,
+      13
+    ],
+    "printed_pages": [
+      4,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-3",
+    "chapter": 3,
+    "number": 3,
+    "topic": "α-Fe中溶质",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-4",
+    "chapter": 3,
+    "number": 4,
+    "topic": "固溶度条件",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-5",
+    "chapter": 3,
+    "number": 5,
+    "topic": "间隙与置换强化",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-6",
+    "chapter": 3,
+    "number": 6,
+    "topic": "化合物作用",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-7",
+    "chapter": 3,
+    "number": 7,
+    "topic": "三种强化",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-8",
+    "chapter": 3,
+    "number": 8,
+    "topic": "三种恒温反应",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-9",
+    "chapter": 3,
+    "number": 9,
+    "topic": "Pb-Sn图分析",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-10",
+    "chapter": 3,
+    "number": 10,
+    "topic": "28%Sn四温度",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-11",
+    "chapter": 3,
+    "number": 11,
+    "topic": "由条件构造共晶图",
+    "pdf_pages": [
+      13,
+      13
+    ],
+    "printed_pages": [
+      5,
+      5
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-12",
+    "chapter": 3,
+    "number": 12,
+    "topic": "共晶量与相量",
+    "pdf_pages": [
+      13,
+      14
+    ],
+    "printed_pages": [
+      5,
+      6
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-13",
+    "chapter": 3,
+    "number": 13,
+    "topic": "复合相图空区",
+    "pdf_pages": [
+      14,
+      14
+    ],
+    "printed_pages": [
+      6,
+      6
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-14",
+    "chapter": 3,
+    "number": 14,
+    "topic": "Cu-Zn复杂相图",
+    "pdf_pages": [
+      14,
+      14
+    ],
+    "printed_pages": [
+      6,
+      6
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-15",
+    "chapter": 3,
+    "number": 15,
+    "topic": "Cu-Ni偏析比较",
+    "pdf_pages": [
+      14,
+      14
+    ],
+    "printed_pages": [
+      6,
+      6
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-16",
+    "chapter": 3,
+    "number": 16,
+    "topic": "相图与性能",
+    "pdf_pages": [
+      14,
+      14
+    ],
+    "printed_pages": [
+      6,
+      6
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "3-17",
+    "chapter": 3,
+    "number": 17,
+    "topic": "铸造与压力加工选材",
+    "pdf_pages": [
+      14,
+      14
+    ],
+    "printed_pages": [
+      6,
+      6
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch03.md"
+  },
+  {
+    "id": "4-1",
+    "chapter": 4,
+    "number": 1,
+    "topic": "纯铁冷却曲线",
+    "pdf_pages": [
+      14,
+      14
+    ],
+    "printed_pages": [
+      6,
+      6
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-2",
+    "chapter": 4,
+    "number": 2,
+    "topic": "纯铁性能用途",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-3",
+    "chapter": 4,
+    "number": 3,
+    "topic": "γ→α体积",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-4",
+    "chapter": 4,
+    "number": 4,
+    "topic": "五种组织辨识",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-5",
+    "chapter": 4,
+    "number": 5,
+    "topic": "铁碳图标注",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-6",
+    "chapter": 4,
+    "number": 6,
+    "topic": "三反应",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-7",
+    "chapter": 4,
+    "number": 7,
+    "topic": "钢与白口铁",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-8",
+    "chapter": 4,
+    "number": 8,
+    "topic": "不同碳钢缓冷",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-9",
+    "chapter": 4,
+    "number": 9,
+    "topic": "三种白口铁",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-10",
+    "chapter": 4,
+    "number": 10,
+    "topic": "三组术语",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-11",
+    "chapter": 4,
+    "number": 11,
+    "topic": "组织量计算",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-12",
+    "chapter": 4,
+    "number": 12,
+    "topic": "80%先共析F反算",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-13",
+    "chapter": 4,
+    "number": 13,
+    "topic": "18%渗碳体反算",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-14",
+    "chapter": 4,
+    "number": 14,
+    "topic": "93%珠光体反算",
+    "pdf_pages": [
+      15,
+      15
+    ],
+    "printed_pages": [
+      7,
+      7
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-15",
+    "chapter": 4,
+    "number": 15,
+    "topic": "十种生产现象",
+    "pdf_pages": [
+      15,
+      16
+    ],
+    "printed_pages": [
+      7,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-16",
+    "chapter": 4,
+    "number": 16,
+    "topic": "铁碳图适用范围",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-17",
+    "chapter": 4,
+    "number": 17,
+    "topic": "常存杂质",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-18",
+    "chapter": 4,
+    "number": 18,
+    "topic": "碳钢分类编号",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-19",
+    "chapter": 4,
+    "number": 19,
+    "topic": "低中高碳用途",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "4-20",
+    "chapter": 4,
+    "number": 20,
+    "topic": "四牌号",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch04.md"
+  },
+  {
+    "id": "5-1",
+    "chapter": 5,
+    "number": 1,
+    "topic": "热处理定义与类型",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-2",
+    "chapter": 5,
+    "number": 2,
+    "topic": "术语组辨析",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-3",
+    "chapter": 5,
+    "number": 3,
+    "topic": "奥氏体形成",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-4",
+    "chapter": 5,
+    "number": 4,
+    "topic": "形成速度与晶粒",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-5",
+    "chapter": 5,
+    "number": 5,
+    "topic": "临界点",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-6",
+    "chapter": 5,
+    "number": 6,
+    "topic": "本质细晶粒",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-7",
+    "chapter": 5,
+    "number": 7,
+    "topic": "1150℃两小时判别",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-8",
+    "chapter": 5,
+    "number": 8,
+    "topic": "细晶元素",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-9",
+    "chapter": 5,
+    "number": 9,
+    "topic": "20与60钢晶粒",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-10",
+    "chapter": 5,
+    "number": 10,
+    "topic": "P/S/T比较",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-11",
+    "chapter": 5,
+    "number": 11,
+    "topic": "上下贝氏体",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-12",
+    "chapter": 5,
+    "number": 12,
+    "topic": "马氏体类型",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-13",
+    "chapter": 5,
+    "number": 13,
+    "topic": "冷却方式示意",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-14",
+    "chapter": 5,
+    "number": 14,
+    "topic": "C曲线读法",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-15",
+    "chapter": 5,
+    "number": 15,
+    "topic": "TTT与CCT",
+    "pdf_pages": [
+      16,
+      16
+    ],
+    "printed_pages": [
+      8,
+      8
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-16",
+    "chapter": 5,
+    "number": 16,
+    "topic": "临界冷速",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-17",
+    "chapter": 5,
+    "number": 17,
+    "topic": "获得马氏体",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-18",
+    "chapter": 5,
+    "number": 18,
+    "topic": "指定多种产物",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-19",
+    "chapter": 5,
+    "number": 19,
+    "topic": "退火目的分类",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-20",
+    "chapter": 5,
+    "number": 20,
+    "topic": "过共析钢球化",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-21",
+    "chapter": 5,
+    "number": 21,
+    "topic": "四件退火选型",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-22",
+    "chapter": 5,
+    "number": 22,
+    "topic": "正火与退火",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-23",
+    "chapter": 5,
+    "number": 23,
+    "topic": "三种毛坯正火",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-24",
+    "chapter": 5,
+    "number": 24,
+    "topic": "45钢三退火温度",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-25",
+    "chapter": 5,
+    "number": 25,
+    "topic": "增加P量强化",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-26",
+    "chapter": 5,
+    "number": 26,
+    "topic": "淬火加热温区",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-27",
+    "chapter": 5,
+    "number": 27,
+    "topic": "淬火方法",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-28",
+    "chapter": 5,
+    "number": 28,
+    "topic": "介质选择",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-29",
+    "chapter": 5,
+    "number": 29,
+    "topic": "图5-29等温后淬火",
+    "pdf_pages": [
+      17,
+      18
+    ],
+    "printed_pages": [
+      9,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-30",
+    "chapter": 5,
+    "number": 30,
+    "topic": "图5-30连续冷却",
+    "pdf_pages": [
+      17,
+      18
+    ],
+    "printed_pages": [
+      9,
+      10
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-31",
+    "chapter": 5,
+    "number": 31,
+    "topic": "45钢不同加热水冷",
+    "pdf_pages": [
+      17,
+      17
+    ],
+    "printed_pages": [
+      9,
+      9
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-32",
+    "chapter": 5,
+    "number": 32,
+    "topic": "1.2%C钢两温度",
+    "pdf_pages": [
+      17,
+      18
+    ],
+    "printed_pages": [
+      9,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-33",
+    "chapter": 5,
+    "number": 33,
+    "topic": "轴弹簧锉刀",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-34",
+    "chapter": 5,
+    "number": 34,
+    "topic": "变形开裂",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-35",
+    "chapter": 5,
+    "number": 35,
+    "topic": "淬火缺陷",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-36",
+    "chapter": 5,
+    "number": 36,
+    "topic": "淬透性与层深",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-37",
+    "chapter": 5,
+    "number": 37,
+    "topic": "层深与末端试验",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-38",
+    "chapter": 5,
+    "number": 38,
+    "topic": "J符号",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-39",
+    "chapter": 5,
+    "number": 39,
+    "topic": "设计考虑淬透性",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-40",
+    "chapter": 5,
+    "number": 40,
+    "topic": "40MnB最大半径",
+    "pdf_pages": [
+      18,
+      19
+    ],
+    "printed_pages": [
+      10,
+      11
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-41",
+    "chapter": 5,
+    "number": 41,
+    "topic": "φ55的40Cr分布",
+    "pdf_pages": [
+      18,
+      19
+    ],
+    "printed_pages": [
+      10,
+      11
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-42",
+    "chapter": 5,
+    "number": 42,
+    "topic": "回火目的三类",
+    "pdf_pages": [
+      18,
+      18
+    ],
+    "printed_pages": [
+      10,
+      10
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-43",
+    "chapter": 5,
+    "number": 43,
+    "topic": "组织名称辨析",
+    "pdf_pages": [
+      18,
+      19
+    ],
+    "printed_pages": [
+      10,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-44",
+    "chapter": 5,
+    "number": 44,
+    "topic": "同硬度正火与调质",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-45",
+    "chapter": 5,
+    "number": 45,
+    "topic": "表面淬火",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-46",
+    "chapter": 5,
+    "number": 46,
+    "topic": "感应加热设计",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-47",
+    "chapter": 5,
+    "number": 47,
+    "topic": "化学热处理过程",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-48",
+    "chapter": 5,
+    "number": 48,
+    "topic": "渗碳层深",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-49",
+    "chapter": 5,
+    "number": 49,
+    "topic": "渗碳件路线",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-50",
+    "chapter": 5,
+    "number": 50,
+    "topic": "氮化",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-51",
+    "chapter": 5,
+    "number": 51,
+    "topic": "碳氮共渗",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-52",
+    "chapter": 5,
+    "number": 52,
+    "topic": "三种表面工艺比较",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-53",
+    "chapter": 5,
+    "number": 53,
+    "topic": "T10车刀路线",
+    "pdf_pages": [
+      19,
+      19
+    ],
+    "printed_pages": [
+      11,
+      11
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-54",
+    "chapter": 5,
+    "number": 54,
+    "topic": "齿轮主轴镗杆",
+    "pdf_pages": [
+      19,
+      20
+    ],
+    "printed_pages": [
+      11,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "5-55",
+    "chapter": 5,
+    "number": 55,
+    "topic": "45改15凸轮轴",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch05.md"
+  },
+  {
+    "id": "6-1",
+    "chapter": 6,
+    "number": 1,
+    "topic": "大截面用合金钢",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-2",
+    "chapter": 6,
+    "number": 2,
+    "topic": "合金元素分类",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-3",
+    "chapter": 6,
+    "number": 3,
+    "topic": "元素分布",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-4",
+    "chapter": 6,
+    "number": 4,
+    "topic": "C曲线与Ms",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-5",
+    "chapter": 6,
+    "number": 5,
+    "topic": "回火转变",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-6",
+    "chapter": 6,
+    "number": 6,
+    "topic": "四现象",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-7",
+    "chapter": 6,
+    "number": 7,
+    "topic": "渗碳钢原理",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-8",
+    "chapter": 6,
+    "number": 8,
+    "topic": "四渗碳钢比较",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-9",
+    "chapter": 6,
+    "number": 9,
+    "topic": "调质钢原理",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-10",
+    "chapter": 6,
+    "number": 10,
+    "topic": "弹簧钢",
+    "pdf_pages": [
+      20,
+      20
+    ],
+    "printed_pages": [
+      12,
+      12
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-11",
+    "chapter": 6,
+    "number": 11,
+    "topic": "轴承钢",
+    "pdf_pages": [
+      20,
+      21
+    ],
+    "printed_pages": [
+      12,
+      13
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-12",
+    "chapter": 6,
+    "number": 12,
+    "topic": "碳素刃具钢",
+    "pdf_pages": [
+      21,
+      21
+    ],
+    "printed_pages": [
+      13,
+      13
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-13",
+    "chapter": 6,
+    "number": 13,
+    "topic": "T9与9SiCr",
+    "pdf_pages": [
+      21,
+      21
+    ],
+    "printed_pages": [
+      13,
+      13
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-14",
+    "chapter": 6,
+    "number": 14,
+    "topic": "五牌号类别",
+    "pdf_pages": [
+      21,
+      21
+    ],
+    "printed_pages": [
+      13,
+      13
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-15",
+    "chapter": 6,
+    "number": 15,
+    "topic": "高速钢高温淬与三回火",
+    "pdf_pages": [
+      21,
+      21
+    ],
+    "printed_pages": [
+      13,
+      13
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-16",
+    "chapter": 6,
+    "number": 16,
+    "topic": "钨系与钨钼系高速钢",
+    "pdf_pages": [
+      21,
+      21
+    ],
+    "printed_pages": [
+      13,
+      13
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-17",
+    "chapter": 6,
+    "number": 17,
+    "topic": "热硬性与二次硬化",
+    "pdf_pages": [
+      21,
+      21
+    ],
+    "printed_pages": [
+      13,
+      13
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-18",
+    "chapter": 6,
+    "number": 18,
+    "topic": "冷模Cr12MoV",
+    "pdf_pages": [
+      21,
+      22
+    ],
+    "printed_pages": [
+      13,
+      14
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-19",
+    "chapter": 6,
+    "number": 19,
+    "topic": "量具尺寸稳定",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-20",
+    "chapter": 6,
+    "number": 20,
+    "topic": "不锈钢分类用途",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-21",
+    "chapter": 6,
+    "number": 21,
+    "topic": "18-8奥氏体钢",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-22",
+    "chapter": 6,
+    "number": 22,
+    "topic": "抗氧化钢",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-23",
+    "chapter": 6,
+    "number": 23,
+    "topic": "奥氏体热强钢",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-24",
+    "chapter": 6,
+    "number": 24,
+    "topic": "六特殊钢",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "6-25",
+    "chapter": 6,
+    "number": 25,
+    "topic": "硬质合金比较",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch06.md"
+  },
+  {
+    "id": "7-1",
+    "chapter": 7,
+    "number": 1,
+    "topic": "三种材料比较",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-2",
+    "chapter": 7,
+    "number": 2,
+    "topic": "石墨化条件",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-3",
+    "chapter": 7,
+    "number": 3,
+    "topic": "石墨形态",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-4",
+    "chapter": 7,
+    "number": 4,
+    "topic": "床身灰铁",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-5",
+    "chapter": 7,
+    "number": 5,
+    "topic": "15–30mm抗弯350MPa",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-6",
+    "chapter": 7,
+    "number": 6,
+    "topic": "床身变形与薄壁白口",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-7",
+    "chapter": 7,
+    "number": 7,
+    "topic": "可锻铸铁",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-8",
+    "chapter": 7,
+    "number": 8,
+    "topic": "球墨铸铁强化",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-9",
+    "chapter": 7,
+    "number": 9,
+    "topic": "牌号理解",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-10",
+    "chapter": 7,
+    "number": 10,
+    "topic": "铸铁热处理应用",
+    "pdf_pages": [
+      22,
+      22
+    ],
+    "printed_pages": [
+      14,
+      14
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "7-11",
+    "chapter": 7,
+    "number": 11,
+    "topic": "特殊铸铁",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch07.md"
+  },
+  {
+    "id": "8-1",
+    "chapter": 8,
+    "number": 1,
+    "topic": "铝合金强化",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch08.md"
+  },
+  {
+    "id": "8-2",
+    "chapter": 8,
+    "number": 2,
+    "topic": "硅铝明",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch08.md"
+  },
+  {
+    "id": "8-3",
+    "chapter": 8,
+    "number": 3,
+    "topic": "黄铜",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch08.md"
+  },
+  {
+    "id": "8-4",
+    "chapter": 8,
+    "number": 4,
+    "topic": "锡青铜",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch08.md"
+  },
+  {
+    "id": "8-5",
+    "chapter": 8,
+    "number": 5,
+    "topic": "具体有色牌号",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch08.md"
+  },
+  {
+    "id": "8-6",
+    "chapter": 8,
+    "number": 6,
+    "topic": "轴瓦与巴氏合金",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch08.md"
+  },
+  {
+    "id": "9-1",
+    "chapter": 9,
+    "number": 1,
+    "topic": "选材原则",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-2",
+    "chapter": 9,
+    "number": 2,
+    "topic": "技术条件标注",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-3",
+    "chapter": 9,
+    "number": 3,
+    "topic": "三要求能否满足",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-4",
+    "chapter": 9,
+    "number": 4,
+    "topic": "切削加工性",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-5",
+    "chapter": 9,
+    "number": 5,
+    "topic": "结构与淬裂",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-6",
+    "chapter": 9,
+    "number": 6,
+    "topic": "9Mn2V精密丝杆",
+    "pdf_pages": [
+      23,
+      23
+    ],
+    "printed_pages": [
+      15,
+      15
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-7",
+    "chapter": 9,
+    "number": 7,
+    "topic": "冲击齿轮",
+    "pdf_pages": [
+      24,
+      24
+    ],
+    "printed_pages": [
+      16,
+      16
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-8",
+    "chapter": 9,
+    "number": 8,
+    "topic": "φ60轴四钢选择",
+    "pdf_pages": [
+      24,
+      24
+    ],
+    "printed_pages": [
+      16,
+      16
+    ],
+    "status": "需补原图/表数据或完整子问",
+    "file": "exercises/ch09.md"
+  },
+  {
+    "id": "9-9",
+    "chapter": 9,
+    "number": 9,
+    "topic": "四种齿轮工况",
+    "pdf_pages": [
+      24,
+      24
+    ],
+    "printed_pages": [
+      16,
+      16
+    ],
+    "status": "解题要点",
+    "file": "exercises/ch09.md"
+  }
+]

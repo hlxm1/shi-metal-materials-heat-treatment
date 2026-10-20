@@ -1,0 +1,10 @@
+test_eutectic_book_example (test_calculate.Calculations.test_eutectic_book_example) ... ok
+test_fcc_units_and_volume_scaling (test_calculate.Calculations.test_fcc_units_and_volume_scaling) ... ok
+test_invalid_tie_lines (test_calculate.Calculations.test_invalid_tie_lines) ... ok
+test_kelvin_conversion (test_calculate.Calculations.test_kelvin_conversion) ... ok
+test_lever_conservation (test_calculate.Calculations.test_lever_conservation) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
